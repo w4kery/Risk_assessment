@@ -70,14 +70,57 @@ A cyberattack aimed at stealing sensitive information:
 
 ## Risk Assessment Template
 
-| ID  | Title            | Description  | Sources or Causes of Risk | Consequences of Risk | Likelihood | Consequence | Risk Level | Existing control measures | Effectiveness of existing control measures | Likelihood | Consequence | Risk Level | Additional control measures | Effectiveness of additional control measures | Likelihood | Consequence | Risk Level |
-| --- | ---------------  | ------------ | ------------------------- | -------------------- | ---------- | ----------- | ---------- | ------------------------ | ----------------------------------------- | ---------- | ----------- | ---------- | -------------------------- | -------------------------------------------- | ---------- | ----------- | ---------- |
-| R01 | Cyber attack      | Description   | Sources                  | Consequences          | Likely     | Major       | VERY HIGH  | Existing measures         | Effectiveness rating                        | Possible   | Major       | VERY HIGH  | Additional measures         | Effectiveness rating                           | Unlikely   | Moderate    | MEDIUM     |
-| R02 | Natural Disaster  | Description   | Sources                  | Consequences          | Rare      | Severe      | HIGH       | Existing measures         | Effectiveness rating                        | Rare      | Moderate    | LOW        | Accept                      | Regular testing and maintenance                 | Rare      | Moderate    | LOW        |
-| R03 | Employee Negligence| Description   | Sources                  | Consequences          | Possible  | Moderate    | MEDIUM     | Existing measures         | Effectiveness rating                        | Possible  | Moderate    | MEDIUM     | Treat                       | Monitoring, Role-based access, Incident response | Unlikely   | Minor      | LOW        |
 
 ## Summary
 
-The goal is to help the client prioritize and implement security measures to ensure the confidentiality, integrity, and availability of their information. Your work will aid compliance with regulatory requirements and provide peace of mind to the client.
+# Summary
 
-Best of luck with your risk assessment!
+## Project Overview
+
+Congratulations on successfully completing the first task! In this cybersecurity consultancy project, your initial research on the APT group has set the stage for a critical phase: conducting a comprehensive risk assessment for the client.
+
+## Project Objectives
+
+### Understanding the Client's Concerns
+
+The client currently employs basic security measures, including a perimeter fence and entrance gate padlock. However, they express concern about potential risks and vulnerabilities that could compromise the security of their information and systems.
+
+### The Role of a Cybersecurity Consultant
+
+As a cybersecurity consultant, your role is to guide the client through a thorough risk assessment process. This involves identifying, evaluating, and prioritizing potential security threats and vulnerabilities. The ultimate goal is to determine the level of risk and develop a strategic plan to mitigate these risks effectively.
+
+## Specific Tasks
+
+### Defining the Context
+
+- **Identifying Critical Assets:**
+  Define the assets that require protection, encompassing confidential customer data, proprietary business information, financial records, intellectual property, and physical infrastructure.
+
+### Assessing the Risk Matrix
+
+- **Evaluating Likelihood and Consequence:**
+  Utilize the risk matrix to assess the likelihood and consequence of potential risk scenarios, providing a comprehensive view of the overall risk landscape.
+
+### Identifying Risk Scenarios
+
+- **Defining Specific Risks:**
+  Identify and define three specific risk scenarios, such as cyberattacks, natural disasters, and employee negligence, that the client aims to safeguard against.
+
+### Calculating Risk Ratings
+
+- **Assessing Inherent, Current, and Target Risk Ratings:**
+  Calculate risk ratings for each scenario without existing measures, with existing measures, and with additional measures in place.
+
+### Creating a Comprehensive Report
+
+- **Summarizing Findings and Recommendations:**
+  Prepare a detailed risk assessment report summarizing findings, proposing a risk mitigation strategy, and recommending specific measures for implementation.
+
+## Project Impact
+
+Your efforts in this project aim to empower the client to make informed decisions regarding their cybersecurity strategy. The outcomes will contribute not only to risk reduction but also to regulatory compliance, reputation protection, and the preservation of financial resources.
+
+## Resources and Good Luck!
+
+Leverage the provided [Risk Assessment Template](link) and refer to external resources, such as the NIST Guide, ISO/IEC 27001:2013, SANS Institute methodologies, and more, to enhance the robustness of your risk assessment.
+
