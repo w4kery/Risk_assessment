@@ -68,59 +68,27 @@ A cyberattack aimed at stealing sensitive information:
 - Intellectual property
 - Physical infrastructure & equipment
 
-## Risk Assessment Template
+## Accessing the Final Results
+
+To view the final results and delve into the specifics of the risk assessment outcomes, you can download the Excel document directly from the Risk Assessment Tree on GitHub. The document offers a structured presentation of data, making it an invaluable resource for understanding the nuanced insights derived from the risk assessment process.
+Download the Excel Document
+
+### Download Risk Assessment Final Results Excel Document
+
+Feel free to explore the findings, risk ratings, and mitigation recommendations presented in the document. This resource serves as a key reference for stakeholders, providing a transparent and detailed overview of the cybersecurity risk landscape.
 
 
-## Summary
+# Project Overview
 
-# Summary
+## Resources Utilized
 
-## Project Overview
-
-Congratulations on successfully completing the first task! In this cybersecurity consultancy project, your initial research on the APT group has set the stage for a critical phase: conducting a comprehensive risk assessment for the client.
-
-## Project Objectives
-
-### Understanding the Client's Concerns
-
-The client currently employs basic security measures, including a perimeter fence and entrance gate padlock. However, they express concern about potential risks and vulnerabilities that could compromise the security of their information and systems.
-
-### The Role of a Cybersecurity Consultant
-
-As a cybersecurity consultant, your role is to guide the client through a thorough risk assessment process. This involves identifying, evaluating, and prioritizing potential security threats and vulnerabilities. The ultimate goal is to determine the level of risk and develop a strategic plan to mitigate these risks effectively.
-
-## Specific Tasks
-
-### Defining the Context
-
-- **Identifying Critical Assets:**
-  Define the assets that require protection, encompassing confidential customer data, proprietary business information, financial records, intellectual property, and physical infrastructure.
-
-### Assessing the Risk Matrix
-
-- **Evaluating Likelihood and Consequence:**
-  Utilize the risk matrix to assess the likelihood and consequence of potential risk scenarios, providing a comprehensive view of the overall risk landscape.
-
-### Identifying Risk Scenarios
-
-- **Defining Specific Risks:**
-  Identify and define three specific risk scenarios, such as cyberattacks, natural disasters, and employee negligence, that the client aims to safeguard against.
-
-### Calculating Risk Ratings
-
-- **Assessing Inherent, Current, and Target Risk Ratings:**
-  Calculate risk ratings for each scenario without existing measures, with existing measures, and with additional measures in place.
-
-### Creating a Comprehensive Report
-
-- **Summarizing Findings and Recommendations:**
-  Prepare a detailed risk assessment report summarizing findings, proposing a risk mitigation strategy, and recommending specific measures for implementation.
+Participants leveraged external resources such as the NIST Guide, ISO/IEC 27001:2013, SANS Institute methodologies, and others. This external guidance enriched the risk assessment process and ensured alignment with industry standards.
 
 ## Project Impact
+### Strategic Decision Support
 
-Your efforts in this project aim to empower the client to make informed decisions regarding their cybersecurity strategy. The outcomes will contribute not only to risk reduction but also to regulatory compliance, reputation protection, and the preservation of financial resources.
+The project outcomes empowered the client with strategic insights to make informed decisions regarding their cybersecurity posture. The risk assessment not only aimed at risk reduction but also at regulatory compliance, reputation protection, and resource preservation.
 
-## Resources and Good Luck!
+### Summary
 
-Leverage the provided [Risk Assessment Template](link) and refer to external resources, such as the NIST Guide, ISO/IEC 27001:2013, SANS Institute methodologies, and more, to enhance the robustness of your risk assessment.
-
+In summary, participants successfully navigated the intricacies of a cybersecurity risk assessment, showcasing their ability to apply theoretical knowledge to real-world scenarios. The structured approach, utilization of external resources, and the creation of a comprehensive risk assessment report collectively highlight the depth of understanding and expertise developed through this project.
