@@ -11,8 +11,7 @@
 - Define context, assess risk matrix, and identify potential risk scenarios.
 
 ## Background Information
-
-Congratulations on completing the initial task! Your research on the APT group laid the foundation for the current task - a comprehensive risk assessment for the client. As a cybersecurity consultant, you will identify, evaluate, and prioritize potential security threats and vulnerabilities. This involves defining the context, assessing the risk matrix, and identifying potential risk scenarios.
+As a cybersecurity consultant, you will identify, evaluate, and prioritize potential security threats and vulnerabilities. This involves defining the context, assessing the risk matrix, and identifying potential risk scenarios.
 
 ## Your Task
 
@@ -71,9 +70,11 @@ A cyberattack aimed at stealing sensitive information:
 ## Accessing the Final Results
 
 To view the final results and delve into the specifics of the risk assessment outcomes, you can download the Excel document directly from the Risk Assessment Tree on GitHub. The document offers a structured presentation of data, making it an invaluable resource for understanding the nuanced insights derived from the risk assessment process.
-Download the Excel Document
 
-### Download Risk Assessment Final Results Excel Document
+### Download the Excel Document
+
+[Download the Risk Assessment Final Results here.](https://github.com/w4kery/Risk_assessment/files/13783047/Risk.Assessment.Final.Results.xlsx)
+
 
 Feel free to explore the findings, risk ratings, and mitigation recommendations presented in the document. This resource serves as a key reference for stakeholders, providing a transparent and detailed overview of the cybersecurity risk landscape.
 
